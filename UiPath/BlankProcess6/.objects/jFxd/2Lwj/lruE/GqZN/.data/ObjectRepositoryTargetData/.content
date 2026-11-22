@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4O35cP4vnE2ZXM8BqgAOtA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="alumniportal.tcs.com" CVScreenId="5420ca7f-81f7-4265-83cd-68d210c236e0" CvElementArea="1471, 283, 174, 61" CvTextArea="1512, 300, 91, 28" CvTextArgument="Register" CvType="Button" DesignTimeRectangle="1471, 283, 174, 61" DesignTimeScaleFactor="1.5" ElementType="Button" Guid="45b073e1-efcd-4177-bd8f-473b23422dd2" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='TCS Alumni Portal - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5420ca7f-81f7-4265-83cd-68d210c236e0" CvElementArea="1283, 283, 145, 61" CvTextArea="1323, 300, 63, 28" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="1283, 283, 145, 61" ElementType="Button" Guid="803b12d9-057e-44f4-a7ee-63bc0e3b5ebb" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5ab7361efe6215c02156e565fc99cae0.png" xmlns="">09J3nSjW1D0aO0A6esrKprQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

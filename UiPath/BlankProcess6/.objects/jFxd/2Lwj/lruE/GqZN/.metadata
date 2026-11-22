@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Register",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "GqZNQiVGaUGceDFHcPhUQQ",
+  "Reference": "xpy5f0rNG0KJUOSDTeCe-Q/GqZNQiVGaUGceDFHcPhUQQ",
+  "ParentRef": "xpy5f0rNG0KJUOSDTeCe-Q/lruE-Oug80aB4_j_4r1faQ",
+  "Created": "2026-11-19T04:35:17.7780693Z",
+  "Updated": "2026-11-19T04:35:17.7780693Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.14.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

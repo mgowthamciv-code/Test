@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome TCS Alumni Portal",
+  "Type": "App",
+  "Id": "jFxd_U_G-0Ce_UnqnfmBsg",
+  "Reference": "xpy5f0rNG0KJUOSDTeCe-Q/jFxd_U_G-0Ce_UnqnfmBsg",
+  "Created": "2026-11-19T04:34:42.4274911Z",
+  "Updated": "2026-11-19T04:34:42.4274911Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.14.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

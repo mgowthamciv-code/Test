@@ -1,0 +1,15 @@
+{
+  "Value": {
+    "OCR.xaml": [
+      {
+        "IsEnabled": true,
+        "Annotation": null,
+        "Id": "0e58ca75-bb07-462c-b5d9-f6e42743b1a9",
+        "ActivityIdRef": "LogMessage_1",
+        "ActivityId": "1.2",
+        "ActivityName": "Log Message",
+        "IsTransient": false
+      }
+    ]
+  }
+}
